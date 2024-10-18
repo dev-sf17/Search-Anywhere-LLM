@@ -23,4 +23,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://GeoMM:$HF_TOKEN@huggingface.co/spaces/GeoMM/Search-Anywhere-LLM main
+        run: git push https://dev-sf17:$HF_TOKEN@huggingface.co/spaces/dev-sf17/Search-Anywhere-LLM main
