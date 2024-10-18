@@ -25,7 +25,7 @@ Here's a README description for your LLM chatbot based on the details provided:
 
 ## Usage
 
-To use the chatbot, visit the [Streamlit Cloud link](#) (replace `#` with the actual link to your Streamlit Cloud app).
+To use the chatbot, visit https://search-anywhere-llm-e6a57kgkhdbhnrje44adbn.streamlit.app/
 
 ## Installation
 
