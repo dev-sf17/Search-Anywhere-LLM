@@ -33,7 +33,7 @@ If you want to run the chatbot locally or deploy it elsewhere, follow these step
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Search-Anywhere.git
+   git clone https://github.com/yourusername/Search-Anywhere-LLM.git
    ```
 2. Navigate to the project directory:
    ```bash
