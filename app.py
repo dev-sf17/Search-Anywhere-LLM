@@ -18,7 +18,7 @@ search=DuckDuckGoSearchRun(name="Search")
 
 
 st.title("LangChain - Chat with Search")
-
+st.secrets["GROQ_API_KEY"]
 ##Sidebar for settings
 st.sidebar.title("Settings")
 api_key=st.sidebar.text_input("Enter your GROQ API Key:",type="password")
